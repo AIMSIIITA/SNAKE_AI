@@ -1,5 +1,5 @@
 # SNAKE_AI
-## [Video presentation](https://drive.google.com/file/d/1U1HlkU2EZxH8iVvWoFxFGfGQO7J3Lann/view)
+## [Video presentation](https://youtu.be/KuUbKE5kM2M)
 
 ## Table of Contents
 
