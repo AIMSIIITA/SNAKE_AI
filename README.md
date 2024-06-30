@@ -1,6 +1,8 @@
 # SNAKE_AI
 ## [Video presentation](https://youtu.be/KuUbKE5kM2M)
 
+
+## [IEEE TENCON: 2024 SINGAPORE CONFERENCE PAPER:](https://drive.google.com/file/d/1Y8pFksLibAitF0G1oQbKjbXH40FuBE1X/view)
 ## Table of Contents
 
 1. [Introduction](#introduction)
