@@ -2,7 +2,7 @@
 ## [Video presentation](https://youtu.be/KuUbKE5kM2M)
 
 
-## [IEEE TENCON: 2024 SINGAPORE CONFERENCE PAPER:]([https://drive.google.com/file/d/1Y8pFksLibAitF0G1oQbKjbXH40FuBE1X/view](https://drive.google.com/file/d/1h29DZHnpUkWjDi5kRYbzGt_WZ0gUgJyH/view?usp=sharing)
+## [IEEE TENCON: 2024 SINGAPORE CONFERENCE PAPER:](https://drive.google.com/file/d/1Y8pFksLibAitF0G1oQbKjbXH40FuBE1X/view](https://drive.google.com/file/d/1h29DZHnpUkWjDi5kRYbzGt_WZ0gUgJyH/view?usp=sharing)
 ## Table of Contents
 
 1. [Introduction](#introduction)
